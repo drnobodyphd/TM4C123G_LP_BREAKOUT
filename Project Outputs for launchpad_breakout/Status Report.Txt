@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [launchpad_breakout.PrjPcb]
+   Generated File[launchpad_breakout.GTL]
+   Generated File[launchpad_breakout.GBL]
+   Generated File[launchpad_breakout.GTO]
+   Generated File[launchpad_breakout.GTS]
+   Generated File[launchpad_breakout.GBS]
+   Generated File[launchpad_breakout.GBO]
+   Generated File[launchpad_breakout.GKO]
+   Generated File[launchpad_breakout.RUL]
+   Generated File[launchpad_breakout.EXTREP]
+   Generated File[launchpad_breakout.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 7:06:13 PM On 7/24/2017
